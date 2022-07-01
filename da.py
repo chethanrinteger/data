@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 #import plotly.express as px
 import matplotlib.pyplot as plt
+git clone https://github.com/matplotlib/matplotlib.git
 
 st.title("Product Intelligent")
 st.sidebar.title("Inventory")
